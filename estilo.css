@@ -1,5 +1,9 @@
 .slides{
     position: relative;
-    bottom: 20px;
+    border: solid 20px red;
+    width: 200px;
+    height: 200px;
+    top: 600px;
+    z-index: ;
 
-}
+    }
